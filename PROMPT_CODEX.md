@@ -6,6 +6,7 @@ Implement the appeal system exactly as described in SPEC_APPEALS.md, including:
 
 Eligibility rules (perm or >4 days only)
 
+
 72h wait and 72h denial cooldown (disabled when SIMULATION_MODE = True)
 
 Prevent re-appeals if already ACCEPTED/CLOSED and prevent duplicates if PENDING
